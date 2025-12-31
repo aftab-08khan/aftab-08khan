@@ -52,14 +52,7 @@ I enjoy transforming complex ideas into **simple, fast, and user-friendly interf
 ---
 ## 🧠 What I Build (Workflow Overview)
 
-```mermaid
-flowchart LR
-    A[UI Design] --> B[Reusable Components]
-    B --> C[State Management]
-    C --> D[API Integration]
-    D --> E[Performance Optimization]
-    E --> F[Responsive Layouts]
-    F --> G[Production Ready App]
+
 🛠️ Tech Stack
 🚀 Frontend
 <div align="center">
@@ -149,5 +142,5 @@ Tech: Next.js, Tailwind, Nodemailer
 🚀 Open to Front-End / React / Next.js roles (UAE & Remote)
 📩 Feel free to connect or reach out anytime!
 
-</div> ```
+</div> 
 
