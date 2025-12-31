@@ -50,7 +50,6 @@ I enjoy transforming complex ideas into **simple, fast, and user-friendly interf
 </div>
 
 ---
-
 ## 🧠 What I Build (Workflow Overview)
 
 ```mermaid
@@ -61,3 +60,94 @@ flowchart LR
     D --> E[Performance Optimization]
     E --> F[Responsive Layouts]
     F --> G[Production Ready App]
+🛠️ Tech Stack
+🚀 Frontend
+<div align="center">
+
+</div>
+⚙️ Backend & Tools
+<div align="center">
+
+</div>
+💼 Professional Experience
+🏢 MAK Byte — Front-End Engineer
+
+📍 Abu Dhabi | Sep 2023 – Present
+
+✅ Built school management dashboards & mobile apps using React, Next.js & React Native
+✅ Implemented authentication, dashboards, and role-based access
+✅ Designed responsive layouts with Tailwind CSS
+✅ Integrated Firebase for auth, database & real-time updates
+✅ Improved performance and component reusability
+✅ Collaborated with designers and backend engineers
+✅ Used Git & GitHub for version control
+
+🏢 MAK Byte — Front-End Intern
+
+📍 Jun 2023 – Sep 2023
+
+✅ Assisted in dashboard development
+✅ Built reusable UI components
+✅ Integrated APIs & Firebase
+✅ Improved responsiveness and UX
+✅ Worked in Agile team environment
+
+🚀 Featured Projects
+🏫 School Management System
+
+Tech: Next.js, React Native, Tailwind, Firebase
+✔ Student & teacher dashboards
+✔ Fee, exam & timetable modules
+✔ Real-time updates
+
+🎬 Movie Central
+
+Tech: React, Redux, SCSS, TMDB API
+✔ Lazy loading
+✔ API-based data fetching
+✔ Modern UI
+
+🏡 Property Finder Dashboard
+
+Tech: React, Tailwind, Recharts, ShadCN
+✔ Inspired by Bayut & Property Finder
+✔ Data visualization
+✔ Optimized performance
+
+🌦️ Weather Application
+
+Tech: React, Tailwind, Weather API, Recharts
+✔ Live location
+✔ Dynamic UI
+✔ Interactive charts
+
+🤖 Job Application Bot
+
+Tech: Next.js, Tailwind, Nodemailer
+✔ CSV parsing
+✔ Automated job emails
+✔ Resume-based outreach
+
+📊 GitHub Stats
+<div align="center">
+</div>
+✨ Strengths
+
+🌟 Clean & scalable code
+🌟 Strong UI/UX mindset
+🌟 Performance-focused development
+🌟 Problem-solving approach
+🌟 Fast learner & team player
+🌟 Production-ready thinking
+
+💬 Quote
+
+"Great frontend isn’t just about design — it’s about performance, usability, and experience."
+
+<div align="center">
+
+🚀 Open to Front-End / React / Next.js roles (UAE & Remote)
+📩 Feel free to connect or reach out anytime!
+
+</div> ```
+
