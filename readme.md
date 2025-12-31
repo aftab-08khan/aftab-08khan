@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Aftab Khan**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Front-End+Engineer;React+%7C+Next.js+%7C+React+Native;Building+Modern+%26+Scalable+UI+Experiences;Available+for+Immediate+Joining+in+UAE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Front-End+Engineer;React+%7C+Next.js+%7C+React+Native;Building+Modern+%26+Scalable+UI+Experiences;Available+for+Immediate+Joining+in+UAE" />
 
 <br/>
 
@@ -28,13 +28,13 @@ I’m a **Front-End Engineer with 2+ years of experience** building scalable, hi
 
 I specialize in:
 - Clean & reusable component architecture  
-- Responsive UI/UX  
+- Responsive and mobile-first UI  
 - Performance optimization  
-- API integrations  
-- Admin dashboards  
-- Real-time & Firebase-based applications  
+- API integration & state management  
+- Dashboard and real-time applications  
+- Firebase-powered systems  
 
-I enjoy transforming complex requirements into **simple, elegant, and user-friendly interfaces**.
+I enjoy transforming complex ideas into **simple, fast, and user-friendly interfaces**.
 
 ---
 
@@ -51,7 +51,7 @@ I enjoy transforming complex requirements into **simple, elegant, and user-frien
 
 ---
 
-## 🧠 What I Build (Visual Flow)
+## 🧠 What I Build (Workflow Overview)
 
 ```mermaid
 flowchart LR
