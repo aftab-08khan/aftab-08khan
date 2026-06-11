@@ -1,13 +1,134 @@
 <div align="center">
 
-# 👋 Hi, I'm **Aftab Khan**
+# 👋 Hi, I'm Aftab Khan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Front-End+Engineer;React+%7C+Next.js+%7C+React+Native;Building+Modern+%26+Scalable+UI+Experiences;Available+for+Immediate+Joining+in+UAE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Front-End+Engineer;React+%7C+Next.js+%7C+React+Native;Building+Modern+UI+Experiences;Passionate+About+Clean+and+Scalable+Code" />
 
-<br/>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aftab-08khan&label=Profile%20Views&color=0e75b6&style=flat)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aftab-08khan.aftab-08khan)
+<img src="https://github-profile-trophy.vercel.app/?username=aftab-08khan&theme=algolia&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Frontend Engineer focused on building scalable web and mobile applications using modern JavaScript frameworks.
+
+* ⚛️ React.js & Next.js Specialist
+* 📱 React Native Mobile Development
+* 🎨 Responsive UI & Tailwind CSS
+* 🔥 Firebase & Real-time Applications
+* 🧩 Reusable Component Architecture
+* ⚡ Performance Optimization
+* 🌍 Based in UAE
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</div>
+
+---
+
+## ⚡ Skills Animation
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftab-08khan&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 School Management System
+
+**Next.js • React Native • Firebase**
+
+* Student & Teacher Dashboards
+* Attendance & Timetable Management
+* Real-time Notifications
+* Role-Based Access Control
+
+### 🎬 Movie Central
+
+**React • Redux • TMDB API**
+
+* Dynamic Movie Discovery
+* Infinite Scrolling
+* Lazy Loading
+* Optimized API Fetching
+
+### 🏡 Property Finder Dashboard
+
+**React • Tailwind • Recharts**
+
+* Interactive Analytics
+* Responsive Dashboard UI
+* Performance Optimized Components
+
+### 🌦 Weather Application
+
+**React • Tailwind • Recharts**
+
+* Live Weather Data
+* Interactive Charts
+* Dynamic User Experience
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aftab-08khan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aftab-08khan&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://portfolio-aftab-khan.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/aftab-khan-806617289/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:akkhanaftab08@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/aftab-08khan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -15,132 +136,6 @@
 
 <div align="center">
 
-📍 **Abu Dhabi, UAE**  
-🕒 **Available for Immediate Joining**
+### 💡 "Great frontend isn't just about design — it's about performance, usability, and experience."
 
 </div>
-
----
-
-## 🚀 About Me  
-
-I’m a **Front-End Engineer with 2+ years of experience** building scalable, high-performance web and mobile applications using **React.js, Next.js, React Native, and Tailwind CSS**.
-
-I specialize in:
-- Clean & reusable component architecture  
-- Responsive and mobile-first UI  
-- Performance optimization  
-- API integration & state management  
-- Dashboard and real-time applications  
-- Firebase-powered systems  
-
-I enjoy transforming complex ideas into **simple, fast, and user-friendly interfaces**.
-
----
-
-## 🔗 Connect With Me  
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aftab-khan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aftab-khan-806617289/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akkhanaftab08@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aftab-08khan)
-
-</div>
-
----
-## 🧠 What I Build (Workflow Overview)
-
-
-🛠️ Tech Stack
-🚀 Frontend
-<div align="center">
-
-</div>
-⚙️ Backend & Tools
-<div align="center">
-
-</div>
-💼 Professional Experience
-🏢 MAK Byte — Front-End Engineer
-
-📍 Abu Dhabi | Sep 2023 – Present
-
-✅ Built school management dashboards & mobile apps using React, Next.js & React Native
-✅ Implemented authentication, dashboards, and role-based access
-✅ Designed responsive layouts with Tailwind CSS
-✅ Integrated Firebase for auth, database & real-time updates
-✅ Improved performance and component reusability
-✅ Collaborated with designers and backend engineers
-✅ Used Git & GitHub for version control
-
-🏢 MAK Byte — Front-End Intern
-
-📍 Jun 2023 – Sep 2023
-
-✅ Assisted in dashboard development
-✅ Built reusable UI components
-✅ Integrated APIs & Firebase
-✅ Improved responsiveness and UX
-✅ Worked in Agile team environment
-
-🚀 Featured Projects
-🏫 School Management System
-
-Tech: Next.js, React Native, Tailwind, Firebase
-✔ Student & teacher dashboards
-✔ Fee, exam & timetable modules
-✔ Real-time updates
-
-🎬 Movie Central
-
-Tech: React, Redux, SCSS, TMDB API
-✔ Lazy loading
-✔ API-based data fetching
-✔ Modern UI
-
-🏡 Property Finder Dashboard
-
-Tech: React, Tailwind, Recharts, ShadCN
-✔ Inspired by Bayut & Property Finder
-✔ Data visualization
-✔ Optimized performance
-
-🌦️ Weather Application
-
-Tech: React, Tailwind, Weather API, Recharts
-✔ Live location
-✔ Dynamic UI
-✔ Interactive charts
-
-🤖 Job Application Bot
-
-Tech: Next.js, Tailwind, Nodemailer
-✔ CSV parsing
-✔ Automated job emails
-✔ Resume-based outreach
-
-📊 GitHub Stats
-<div align="center">
-</div>
-✨ Strengths
-
-🌟 Clean & scalable code
-🌟 Strong UI/UX mindset
-🌟 Performance-focused development
-🌟 Problem-solving approach
-🌟 Fast learner & team player
-🌟 Production-ready thinking
-
-💬 Quote
-
-"Great frontend isn’t just about design — it’s about performance, usability, and experience."
-
-<div align="center">
-
-🚀 Open to Front-End / React / Next.js roles (UAE & Remote)
-📩 Feel free to connect or reach out anytime!
-
-</div> 
-
