@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Aftab Khan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Front-End+Engineer;React+%7C+Next.js+%7C+React+Native;Building+Modern+UI+Experiences;Passionate+About+Clean+and+Scalable+Code" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+React+Native;Building+Modern+UI+Experiences;Passionate+About+Clean+and+Scalable+Code" />
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Frontend Engineer focused on building scalable web and mobile applications using modern JavaScript frameworks.
+Full Stack Engineer focused on building scalable web and mobile applications using modern JavaScript frameworks.
 
 * ⚛️ React.js & Next.js Specialist
 * 📱 React Native Mobile Development
